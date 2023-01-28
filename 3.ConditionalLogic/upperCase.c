@@ -3,7 +3,7 @@
 int main()
 {
 
-    char ch = 'k';
+    char ch = "k";
 
     if (ch >= "A" && ch <= "Z")
     {
