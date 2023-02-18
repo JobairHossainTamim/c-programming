@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/coding-task/c-programming",
-      "program": "d:/coding-task/c-programming/build/Debug/outDebug",
+      "cwd": "d:/coding-task/c-programming/8.Array",
+      "program": "d:/coding-task/c-programming/8.Array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
